@@ -6,11 +6,9 @@ Durant cet hackathon l’objectif sera de créer un début de jeu multijoueur en
 
 ### PRÉREQUIS
 
-- Créer ta propre branche qui sera basé sur main. Nome la comme ceci: <NOM_PRENOM> https://docs.github.com/fr/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository
+- Créer un Fork du GitHub
 
 - Clone le projet github
-
-- N’oubli pas de checkout sur ta branche avant de commencer à travailler.
 
 - Dans Unity hub clique ADD pour ajouter un projet, sélectionne le fichier Hackathon_Unity2024 que tu viens de pull.
 
@@ -20,7 +18,7 @@ Dans le projet que vous venez d’ajouter sont déjà présentes une multitude d
 
 A la fin de la journée le but serait de pouvoir se connecter et qu’il y ait un début de logique de jeu, voir même une boucle de jeu si vous êtes vraiment motivé ! 
 
-N’oubliez pas de pousser votre travail sur GitHub (sur votre branche respective) à la fin du hackathon !
+N’oubliez pas de pousser votre travail sur GitHub à la fin du hackathon !
 
 ### LIENS UTILE
 
